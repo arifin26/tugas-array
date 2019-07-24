@@ -1,15 +1,19 @@
 var eat =[
     ["bakso"],
     ["sate"],
-    ["anggur",
-    "apel",
+    [
+    ["anggur"],
+    ["apel"],
     
-    durian"[
-    "sirup",
-    "esteh",
-    "susu"[
-    "keju"
-    ,"coklat"
+    ["durian"]
+    ["mangga"]
+    [
+    ["sirup"],
+    ["esteh"],
+    ["susu"]
+    [
+    ["keju"]
+    ,["coklat"]
 
     ]
 
